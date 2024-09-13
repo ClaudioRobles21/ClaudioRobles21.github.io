@@ -26,6 +26,13 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #ff9100;
+    text-align: center;
+}
+
 .text {
     width: 80%;
     max-width: 800px;
